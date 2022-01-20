@@ -1,0 +1,16 @@
+@import url(../vendor/normalize.css);
+
+@import url(../vendor/fonts/fonts.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/menu-grid/menu-grid.css);
+@import url(../blocks/menu-grid/__item/menu-grid__item.css);
+@import url(../blocks/menu-grid/__item/_apk/menu-grid__item_apk.css);
+@import url(../blocks/menu-grid/__item/_gpa/menu-grid__item_gpa.css);
+@import url(../blocks/menu-grid/__item/_gsm/menu-grid__item_gsm.css);
+@import url(../blocks/menu-grid/__item/_tpa/menu-grid__item_tpa.css);
+@import url(../blocks/menu-grid/__logo/menu-grid__logo.css);
+@import url(../blocks/menu-grid/__img/menu-grid__img.css);
+@import url(../blocks/menu-grid/__item-title/menu-grid__item-title.css);
+@import url(../blocks/menu-grid/__item-description/menu-grid__item-description.css);
